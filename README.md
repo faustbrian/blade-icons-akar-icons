@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-akar-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-akar-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-akar-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-akar-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-akar-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-akar-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-akar-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-akar-icons" alt="License" />
-    </a>
-</p>
 
 ## About Akar Icons
 
